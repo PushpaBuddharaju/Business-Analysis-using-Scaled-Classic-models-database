@@ -76,7 +76,7 @@ The database script was downloaded from the [MySQL Tutorial](https://www.mysqltu
 
 ### 5️⃣ Recommendations:
 -  Use customer data to identify low-credit-limit customers who may be interested in scaled classic models and offer them personalized discounts or incentives.
-- To attract more customers, cities with lower customer bases should implement targeted marketing and promotional offers.
+- To attract more customers, the company should implement targeted marketing and promotional offers in the cities with the lowest customer bases.
 - To capitalize on the growing demand for classic cars and the declining interest in trains, it is recommended to decrease train production and increase classic car production.
 
 
