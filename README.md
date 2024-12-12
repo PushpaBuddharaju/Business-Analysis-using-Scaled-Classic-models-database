@@ -21,6 +21,8 @@ The database script was downloaded from the [MySQL Tutorial](https://www.mysqltu
 - Imported the ClassicModels database into MySQL.
 - Explored the data using SQL queries such as JOINs, GROUP BY, WHERE, and ORDER BY to understand relationships between tables and gather preliminary insights.
 
+  https://github.com/PushpaBuddharaju/Business-Analysis-using-Scaled-Classic-models-database/blob/main/Classic%20Models.sql
+
 ### 2️⃣ Data Transformation in Power BI:
 
 - Imported tables from the ClassicModels database into Power BI.
