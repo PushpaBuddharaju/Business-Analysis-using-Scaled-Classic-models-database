@@ -69,8 +69,10 @@ The database script was downloaded from the [MySQL Tutorial](https://www.mysqltu
 
 - **🔮 Predictive Analysis:**
   - Forecasted revenue for the next 6 months based on historical trends.
+  - I also added the product line slicer so that users can filter the visual by product line.
     
-    ![image](https://github.com/user-attachments/assets/e1ac424b-ee6e-4877-8376-dbf4ffcdd2e4)
+    ![image](https://github.com/user-attachments/assets/e1ac424b-ee6e-4877-8376-dbf4ffcdd2e4)  ![image](https://github.com/user-attachments/assets/ee72e7d0-036a-4ff7-8cba-8cb7fb325539)
+
 
 ### 5️⃣ Recommendations:
 -  Use customer data to identify low-credit-limit customers who may be interested in scaled classic models and offer them personalized discounts or incentives.
